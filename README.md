@@ -28,5 +28,6 @@ The results for the other algorithms are from [this benchmark](https://docs.goog
   </center>
 </figure>
 
+\
 To alter the tests made in the search structure, please add tests to the ..._test.py files.
 Testingground.ipyn should give an overfiew over my project.
