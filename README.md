@@ -1,6 +1,6 @@
 # IQ-Number-Test-Solver
 This modular python package is an IQ-Number Test solver.
-It increases the state of the arts (2020) performance on short IQ-Number Test sequences.
+It significantly increases the performance of the SOTA (2020) on short IQ-Number Test sequences.
 Additionally, it can solve for any position of a given IQ-Number Test sequence in contrast to only the last position.
 Please have a look at my [Lab report](Lab_Report__MA_INF_4306_Solving_IQ_Number_Tests-1.pdf), if you are interested in a more detailed presentation of my results.
 
