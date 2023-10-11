@@ -22,9 +22,9 @@ The results for the other algorithms are from [this benchmark](https://docs.goog
 
 <figure>
   <center>
-    <img src="Figures/CupShapeAndMainResult.png"
+    <img src="construction_table.png"
          alt="How the Test Sets are constructed">
-    <figcaption>Fig.1: </figcaption>
+    <figcaption>Fig.1: A listing of the sequence types and their construction rules, generated in the same Lab by Maximilian Kernbach.</figcaption>
   </center>
 </figure>
 
